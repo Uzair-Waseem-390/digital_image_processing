@@ -52,10 +52,26 @@
 # plt.show()
 
 
-# Experiment 1.5: Read and Display Using Matplotlib Only
-import matplotlib.pyplot as plt
-import matplotlib.image as mpimg
+# # Experiment 1.5: Read and Display Using Matplotlib Only
+# import matplotlib.pyplot as plt
+# import matplotlib.image as mpimg
 
-img = mpimg.imread('images/uzair.png')
-plt.imshow(img)
-plt.show()
+# img = mpimg.imread('images/uzair.png')
+# plt.imshow(img)
+# plt.show()
+
+
+# # Experiment 1.6: Read and Display Using Pillow
+
+# from PIL import Image
+
+# img = Image.open('images/uzair.png')
+# img.show()
+
+
+# Experiment 1.7: Read and Display Using Scikit-image
+from skimage import io
+
+img = io.imread('images/uzair.png')
+io.imshow(img)
+io.show()
