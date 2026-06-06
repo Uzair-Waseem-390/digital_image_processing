@@ -151,7 +151,7 @@ Backend Developer | BS Software Engineering @ University of Agriculture, Faisala
 
 [![GitHub](https://img.shields.io/badge/GitHub-Uzair--Waseem--390-0A0A0A?style=flat-square&logo=github&logoColor=white)](https://github.com/Uzair-Waseem-390)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-uzair--waseem--digital-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzair-waseem-digital/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5733?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-five-opal-76.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5733?style=flat-square&logo=vercel&logoColor=white)](https://uzair-waseem.vercel.app/)
 
 </div>
 
